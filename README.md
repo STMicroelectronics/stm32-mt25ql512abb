@@ -1,5 +1,7 @@
 # BSP MT25QL512ABB Component
 
+![tag](https://img.shields.io/badge/tag-v1.0.2-brightgreen.svg)
+
 ## Overview
 
 **STM32Cube** is an STMicroelectronics original initiative to ease the developers life by reducing efforts, time and cost.
